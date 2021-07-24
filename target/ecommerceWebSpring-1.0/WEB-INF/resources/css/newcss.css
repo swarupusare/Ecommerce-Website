@@ -1,0 +1,11 @@
+
+.admin .card{
+    
+    border: 1px solid #6600ff;
+    cursor:pointer;
+}
+.admin .card:hover{
+    background-color:buttonhighlight;
+    
+    
+}
